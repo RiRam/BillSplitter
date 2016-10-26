@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">BillSplitter</string>
+
+    <string name="items_header">Items</string>
+    <string name="item_1">Item #1:</string>
+    <string name="item_2">Item #2:</string>
+    <string name="item_3">Item #3:</string>
+    <string name="item_4">Item #4:</string>
+    <string name="item_5">Item #5:</string>
+
+    <string name="tax_header">Tax</string>
+
+    <string name="tip_header">Tip</string>
+
+    <string name="calculate">Calculate</string>
 </resources>
