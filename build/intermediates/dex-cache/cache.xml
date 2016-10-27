@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/riram/Desktop/BillSplitter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/riram/Desktop/BillSplitter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_9c186bc4befb346f70acc8c74626d756fb92830a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/riram/Desktop/BillSplitter/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fb8b21553da7a688de74f446d32354e5e521d0f8">
+        <dex dex="/Users/riram/Desktop/BillSplitter/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_80957846ec2c45701655d2955d909d1b32f29697/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/riram/Desktop/BillSplitter/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b3eaa0e5013d0c1ef61a3798efb4f889dd2bc2e3">
+        <dex dex="/Users/riram/Desktop/BillSplitter/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_55e540c67970a99c01a6d405f0b04880fe7f4663/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/riram/Desktop/BillSplitter/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/riram/Desktop/BillSplitter/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_17767f0493f69cf517294aa3dc20accbf1025657/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/riram/Desktop/BillSplitter/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/riram/Desktop/BillSplitter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_3490d7188d7df22f62efb8f704d412f6103d69ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/riram/Desktop/BillSplitter/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/riram/Desktop/BillSplitter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_83292684f315289340f33ca0611404193a730764/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/riram/Desktop/BillSplitter/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/riram/Desktop/BillSplitter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_1aae1dac06f0e692b7d2cf12706f8be488fe693b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/riram/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/riram/Desktop/BillSplitter/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_ff174d6c817e9970f22a71f2f4e41d9710a6b314/classes.dex" />
+    </item>
+
+</items>

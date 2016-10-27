@@ -13,4 +13,5 @@
     <string name="tip_header">Tip</string>
 
     <string name="calculate">Calculate</string>
+    <string name="reset">Reset</string>
 </resources>
