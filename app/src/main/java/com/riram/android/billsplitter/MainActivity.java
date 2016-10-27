@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     /**
-     * This method displays the tip value.
+     * This method displays the tip value in the tip TextView.
      */
     private void displayTip(int number) {
         TextView tipTextView = (TextView) findViewById(R.id.tip_text_view);
@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     /**
-     * Called when the + button is pressed - increment tip percentage.
+     * Called when the + button is pressed -> increment tip percentage.
      */
     public void increment(View view) {
         if (tipPercent >= 0 && tipPercent <= 100) {
@@ -46,7 +46,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     /**
-     * Called when the - button is pressed - decrements tip percentage.
+     * Called when the - button is pressed -> decrements tip percentage.
      */
     public void decrement(View view) {
         if (tipPercent > 0 && tipPercent <= 100) {
@@ -63,7 +63,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     /**
-     * This method displays the tip value.
+     * This method displays the total value in the total TextView.
      */
     private void displayTotal(double number) {
         //TODO: force to show 2 decimals (currently does not if 0)
@@ -72,7 +72,9 @@ public class MainActivity extends AppCompatActivity {
     }
 
     /**
-     * Calculate the total cost including item costs, tax, and tip.
+     * Calculate the total cost including item costs, tax, and tip and
+     * calls to display the total in a TextView next to the Calculate Button,
+     * with a break down of the pre-tax total, tax, and tip in a short toast.
      */
     public void calculate(View v) {
         // calculate pre tax total
@@ -118,7 +120,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     /**
-     * Resets all values.
+     * Resets all fields to blank, and resets tip percentage to 0.
      */
     public void reset(View v) {
         // reset item values

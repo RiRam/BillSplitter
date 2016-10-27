@@ -193,8 +193,8 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginRight="16dp"
-                android:text="@string/calculate"
-                android:onClick="calculate"/>
+                android:onClick="calculate"
+                android:text="@string/calculate" />
 
             <TextView
                 android:id="@+id/total"
@@ -204,12 +204,12 @@
         </LinearLayout>
 
         <Button
-            android:layout_marginTop="@dimen/activity_vertical_margin"
-            android:layout_marginBottom="@dimen/activity_vertical_margin"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/activity_vertical_margin"
+            android:layout_marginTop="@dimen/activity_vertical_margin"
             android:onClick="reset"
-            android:text="@string/reset"/>
+            android:text="@string/reset" />
 
     </LinearLayout>
 </ScrollView>

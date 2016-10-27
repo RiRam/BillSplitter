@@ -1,17 +1,19 @@
 <resources>
     <string name="app_name">BillSplitter</string>
 
+    <!-- Headings -->
     <string name="items_header">Items</string>
+    <string name="tax_header">Tax</string>
+    <string name="tip_header">Tip</string>
+
+    <!-- Item labels -->
     <string name="item_1">Item #1:</string>
     <string name="item_2">Item #2:</string>
     <string name="item_3">Item #3:</string>
     <string name="item_4">Item #4:</string>
     <string name="item_5">Item #5:</string>
 
-    <string name="tax_header">Tax</string>
-
-    <string name="tip_header">Tip</string>
-
+    <!-- Button text -->
     <string name="calculate">Calculate</string>
     <string name="reset">Reset</string>
 </resources>

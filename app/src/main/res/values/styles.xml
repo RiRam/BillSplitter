@@ -8,6 +8,7 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <!-- Style for Header text strings -->
     <style name="HeaderText">
         <item name="android:fontFamily">sans-serif-smallcaps</item>
         <item name="android:textSize">18sp</item>
